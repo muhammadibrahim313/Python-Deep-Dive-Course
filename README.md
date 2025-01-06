@@ -56,8 +56,8 @@ Welcome to Python Deep Dive! This comprehensive course takes you on a journey fr
         <tr>
             <td align="center"><b>Python Data Structures</b></br>Day 4: </td>
             <td align="center"><a href="https://www.facebook.com/share/v/a99LxxChCq4ZFYBr/">4th session</a></td>
-             <td align="center">Lists</br>Tuples</br>Dictionaries</td>
-            <td align="center"><a href="#">Lecture Notes</a></td>            
+            <td align="center"><a href="#">Lecture Notes</a></td>
+            <td align="center">Lists</br>Tuples</br>Dictionaries</td>
             <td align="center">Asim Khan</td>
         </tr>
         <tr>
