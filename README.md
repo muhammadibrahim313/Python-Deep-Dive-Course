@@ -81,18 +81,39 @@ Welcome to Python Deep Dive! This comprehensive course takes you on a journey fr
             <th>Instructor</th>
         </tr>
         <tr>
-            <td align="center"><b>Design Patterns</b></br>Week 4</td>
-            <td align="center"><a href="#">Python Patterns</a></td>
+            <td align="center"><b>Student</b></br>Day 1</td>
+            <td align="center"><a href="https://www.facebook.com/share/v/12AxHcqxDaa/">Week 2 Day 1</a></td>
             <td align="center"><a href="#">Pattern Guide</a></td>
-            <td align="center">Singleton</br>Factory</br>Observer</td>
-            <td align="center">M Bilal</td>
+            <td align="center">Week 1</br>for and while</br>(if, elif, else)</td>
+            <td align="center">Farzeen, M Imtiaz</td>
         </tr>
-        <tr>
-            <td align="center"><b>Decorators</b></br>Week 5</td>
-            <td align="center"><a href="#">Advanced Decorators</a></td>
-            <td align="center"><a href="#">Practice Code</a></td>
-            <td align="center">Function Decorators</br>Class Decorators</br>Decorator Patterns</td>
-            <td align="center">M Jawad</td>
+            <tr>
+            <td align="center"><b>Functions in Python</b></br>Day 2</td>
+            <td align="center"><a href="https://fb.watch/wXfwVrxqpQ/">Week 2 Day 1</a></td>
+            <td align="center"><a href="https://www.facebook.com/share/v/12AxHcqxDaa/">Pattern Guide</a></td>
+            <td align="center"> Basics of Functions</br> return values</br>local and global</td>
+            <td align="center">Tayyab Sajjad</td>
+        </tr>
+            <tr>
+            <td align="center"><b>Advanced Function Concepts</b></br>Day 3</td>
+            <td align="center"><a href="https://www.facebook.com/share/v/1Cf8qVQtqf/">Week 2 Day 3</a></td>
+            <td align="center"><a href="https://colab.research.google.com/drive/1oSs11bohtsYzx2UdLojjX83Wf68x8YOF?usp=sharing">Google Colab</a></td>
+            <td align="center">Default arguments</br>*args and **kwargs</br>lambda</td>
+            <td align="center">Ahmad Fakhar</td>
+        </tr>
+            <tr>
+            <td align="center"><b>Decorators and Closures</b></br>Day 4</td>
+            <td align="center"><a href="https://www.facebook.com/share/v/14nuM2P3SZ/">Week 2 Day 4</a></td>
+            <td align="center"><a href="https://colab.research.google.com/drive/1oSs11bohtsYzx2UdLojjX83Wf68x8YOF?usp=sharing">Google Colab</a></td>
+            <td align="center">What are decorators?</br>Creating and</br>using decorators</td>
+            <td align="center">Ahmad Fakhar</td>
+        </tr>
+            <tr>
+            <td align="center"><b> Decorators and Closures</b></br>Day 5</td>
+            <td align="center"><a href="https://www.facebook.com/share/v/14nuM2P3SZ/">Week 2 Day 4</a></td>
+            <td align="center"><a href="https://www.facebook.com/share/v/12AxHcqxDaa/">Google Colab</a></td>
+            <td align="center"> Basics of Functions</br> return values</br>local and global</td>
+            <td align="center">Tayyab Sajjad</td>
         </tr>
     </tbody>
 </table>
