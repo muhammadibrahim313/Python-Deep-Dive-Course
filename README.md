@@ -36,39 +36,38 @@ Welcome to Python Deep Dive! This comprehensive course takes you on a journey fr
             <td align="center"><b>Introduction to Python</b></br>Day 1: </td>
             <td align="center"><a href="https://www.facebook.com/iCodeguru/videos/2816555218526600/">1st session</a></td>
             <td align="center"><a href="https://colab.research.google.com/drive/1eism1ZFhi50xwmOsXwFk_sC1Zr4X8hEB?usp=sharing">Lecture Notes</a></td>
-            <td align="center">Reference Counting</br>Garbage Collection</br>Memory Allocation</td>
+            <td align="center">Python syntax</br>Variables and data types</br>Basic input/output operations</td>
             <td align="center">Asim Khan</td>
         </tr>
         <tr>
             <td align="center"><b>Python Operators</b></br>Day 2: </td>
             <td align="center"><a href="https://www.facebook.com/iCodeguru/videos/548941964729383">2nd session</a></td>
             <td align="center"><a href="#">Lecture Notes</a></td>
-            <td align="center">Reference Counting</br>Garbage Collection</br>Memory Allocation</td>
+            <td align="center">Arithmetic</br>comparison operators</br>Operator precedence</td>
             <td align="center">Ahmad Fakhar</td>
         </tr>        
         <tr>
             <td align="center"><b>Control Flow</b></br>Day 3: </td>
             <td align="center"><a href="https://www.facebook.com/iCodeguru/videos/1665413234020809">3rd session</a></td>
             <td align="center"><a href="#">Lecture Notes</a></td>
-            <td align="center">Reference Counting</br>Garbage Collection</br>Memory Allocation</td>
+            <td align="center">Conditional statements</br>Loops</br>control statements</td>
             <td align="center">Ahmad Fakhar</td>
         </tr>        
         <tr>
             <td align="center"><b>Python Data Structures</b></br>Day 4: </td>
             <td align="center"><a href="https://www.facebook.com/share/v/a99LxxChCq4ZFYBr/">4th session</a></td>
-            <td align="center"><a href="#">Lecture Notes</a></td>
-            <td align="center">Reference Counting</br>Garbage Collection</br>Memory Allocation</td>
+             <td align="center">Lists</br>Tuples</br>Dictionaries</td>
+            <td align="center"><a href="#">Lecture Notes</a></td>            
             <td align="center">Asim Khan</td>
         </tr>
         <tr>
             <td align="center"><b>String Manipulation</b></br>Day 5: </td>
             <td align="center"><a href="https://www.facebook.com/share/v/tocrUVggDbnid2dt/">5th session</a></td>
             <td align="center"><a href="#">Lecture Notes</a></td>
-            <td align="center">Reference Counting</br>Garbage Collection</br>Memory Allocation</td>
+            <td align="center">f-strings</br>sets</br>String</td>
             <td align="center">Asim Khan</td>
         </tr>
 
-    </tbody>
 </table>
 
 #### Week 02: Advanced OOP Concepts
