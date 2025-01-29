@@ -166,7 +166,7 @@ Welcome to Python Deep Dive! This comprehensive course takes you on a journey fr
     </tbody>
 </table>
 
-#### Week 04: Concurrency and Parallelism
+#### Week 04: Advanced Topics and Applications
 <table>
     <tbody>
         <tr>
@@ -177,18 +177,39 @@ Welcome to Python Deep Dive! This comprehensive course takes you on a journey fr
             <th>Instructor</th>
         </tr>
         <tr>
-            <td align="center"><b>Threading</b></br>Week 6</td>
-            <td align="center"><a href="#">Python Threading</a></td>
-            <td align="center"><a href="#">Thread Examples</a></td>
-            <td align="center">Thread Objects</br>Synchronization</br>Thread Pools</td>
+            <td align="center"><b>Introduction to OOP</b></br>Day 1</td>
+            <td align="center"><a href="https://www.facebook.com/share/v/WLZMp3JBvngzfywe/">Week 3 Day 1</a></td>
+            <td align="center"><a href="https://colab.research.google.com/drive/1_MHrA1MS3F1UYHdUTv-bDmC3fYCfLwCe?usp=sharing">Project</a></td>
+            <td align="center">Project</td>
+            <td align="center">Ahmad</td>
+        </tr>
+            <tr>
+            <td align="center"><b>Day 2: Encapsulation</b></br>Day 2</td>
+            <td align="center"><a href="https://www.facebook.com/share/v/GRMh9boJUnS3maQZ/">Week 4 Day 2</a></td>
+            <td align="center"><a href="https://colab.research.google.com/drive/18SjK8rwSIhM6rM0n-gxO62UBDrDXidBF#scrollTo=ZC7z-D4Qu0ep">Encapsulation</a></td>
+            <td align="center"> Public, private, </br>and protected members</br>Getters and setters</td>
+            <td align="center">Ahmad</td>
+        </tr>
+            <tr>
+            <td align="center"><b>Day 3: Inheritance</b></br>Day 3</td>
+            <td align="center"><a href="https://www.facebook.com/iCodeguru/videos/1273025913822418/">Week 3 Day 3</a></td>
+            <td align="center"><a href="https://colab.research.google.com/drive/1oSs11bohtsYzx2UdLojjX83Wf68x8YOF?usp=sharing">Google Colab</a></td>
+            <td align="center">Default arguments</br>*args and **kwargs</br>lambda</td>
             <td align="center">Ahmad Fakhar</td>
         </tr>
-        <tr>
-            <td align="center"><b>Asyncio</b></br>Week 7</td>
-            <td align="center"><a href="#">Async Programming</a></td>
-            <td align="center"><a href="#">Async Guide</a></td>
-            <td align="center">Event Loops</br>Coroutines</br>Tasks</td>
-            <td align="center">Asim Khan</td>
+            <tr>
+            <td align="center"><b>Day 4: Polymorphism</b></br>Day 4</td>
+            <td align="center"><a href="https://www.facebook.com/iCodeguru/videos/1492105131434279">Week 3 Day 4</a></td>
+            <td align="center"><a href="https://colab.research.google.com/drive/1oSs11bohtsYzx2UdLojjX83Wf68x8YOF?usp=sharing">Google Colab</a></td>
+            <td align="center">What are decorators?</br>Creating and</br>using decorators</td>
+            <td align="center">Ahmad Fakhar</td>
+        </tr>
+            <tr>
+            <td align="center"><b> Decorators and Closures</b></br>Day 5</td>
+            <td align="center"><a href="https://www.facebook.com/share/v/14nuM2P3SZ/">Week 3 Day 4</a></td>
+            <td align="center"><a href="https://www.facebook.com/share/v/12AxHcqxDaa/">Google Colab</a></td>
+            <td align="center"> Basics of Functions</br> return values</br>local and global</td>
+            <td align="center">Tayyab Sajjad</td>
         </tr>
     </tbody>
 </table>
