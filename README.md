@@ -137,14 +137,14 @@ Welcome to Python Deep Dive! This comprehensive course takes you on a journey fr
         </tr>
             <tr>
             <td align="center"><b>Day 2: Encapsulation</b></br>Day 2</td>
-            <td align="center"><a href="https://fb.watch/wXfwVrxqpQ/">Week 3 Day 2</a></td>
+            <td align="center"><a href="https://www.facebook.com/share/v/1FPJVDD6A1/">Week 3 Day 2</a></td>
             <td align="center"><a href="https://colab.research.google.com/drive/18SjK8rwSIhM6rM0n-gxO62UBDrDXidBF#scrollTo=ZC7z-D4Qu0ep">Encapsulation</a></td>
             <td align="center"> Public, private, </br>and protected members</br>Getters and setters</td>
             <td align="center">Ahmad</td>
         </tr>
             <tr>
             <td align="center"><b>Day 3: Inheritance</b></br>Day 3</td>
-            <td align="center"><a href="https://www.facebook.com/share/v/1Cf8qVQtqf/">Week 3 Day 3</a></td>
+            <td align="center"><a href="https://www.facebook.com/share/v/19mTWZqrbG/">Week 3 Day 3</a></td>
             <td align="center"><a href="https://colab.research.google.com/drive/1oSs11bohtsYzx2UdLojjX83Wf68x8YOF?usp=sharing">Google Colab</a></td>
             <td align="center">Default arguments</br>*args and **kwargs</br>lambda</td>
             <td align="center">Ahmad Fakhar</td>
@@ -158,7 +158,7 @@ Welcome to Python Deep Dive! This comprehensive course takes you on a journey fr
         </tr>
             <tr>
             <td align="center"><b> Decorators and Closures</b></br>Day 5</td>
-            <td align="center"><a href="https://www.facebook.com/share/v/14nuM2P3SZ/">Week 3 Day 4</a></td>
+            <td align="center"><a href="https://www.facebook.com/share/v/1BWh5hoiha/">Week 3 Day 4</a></td>
             <td align="center"><a href="https://www.facebook.com/share/v/12AxHcqxDaa/">Google Colab</a></td>
             <td align="center"> Basics of Functions</br> return values</br>local and global</td>
             <td align="center">Tayyab Sajjad</td>
@@ -178,37 +178,37 @@ Welcome to Python Deep Dive! This comprehensive course takes you on a journey fr
         </tr>
         <tr>
             <td align="center"><b>Introduction to OOP</b></br>Day 1</td>
-            <td align="center"><a href="https://www.facebook.com/share/v/WLZMp3JBvngzfywe/">Week 3 Day 1</a></td>
+            <td align="center"><a href="https://www.facebook.com/share/v/19pEz1e35g/">Week 3 Day 1</a></td>
             <td align="center"><a href="https://colab.research.google.com/drive/1_MHrA1MS3F1UYHdUTv-bDmC3fYCfLwCe?usp=sharing">Project</a></td>
             <td align="center">Project</td>
             <td align="center">Ibrahim Qasmi</td>
         </tr>
             <tr>
-            <td align="center"><b>Day 2: Encapsulation</b></br>Day 2</td>
-            <td align="center"><a href="https://www.facebook.com/share/v/GRMh9boJUnS3maQZ/">Week 4 Day 2</a></td>
+            <td align="center"><b>Git Hub and Git</b></br>Day 2</td>
+            <td align="center"><a href="https://www.facebook.com/share/v/1DaA5oeKUS/">Week 4 Day 2</a></td>
             <td align="center"><a href="https://colab.research.google.com/drive/18SjK8rwSIhM6rM0n-gxO62UBDrDXidBF#scrollTo=ZC7z-D4Qu0ep">Encapsulation</a></td>
-            <td align="center"> Public, private, </br>and protected members</br>Getters and setters</td>
+            <td align="center">Git Hub and Git</td>
             <td align="center">Ibrahim Qasmi</td>
         </tr>
             <tr>
-            <td align="center"><b>Day 3: Inheritance</b></br>Day 3</td>
-            <td align="center"><a href="https://www.facebook.com/iCodeguru/videos/1273025913822418/">Week 4 Day 3</a></td>
-            <td align="center"><a href="https://colab.research.google.com/drive/1oSs11bohtsYzx2UdLojjX83Wf68x8YOF?usp=sharing">Google Colab</a></td>
-            <td align="center">Default arguments</br>*args and **kwargs</br>lambda</td>
+            <td align="center"><b>𝗣𝗲𝗿𝘀𝗼𝗻𝗮𝗹 𝗙𝗶𝗻𝗮𝗻𝗰𝗲 𝗧𝗿𝗮𝗰𝗸𝗲𝗿 </b></br>Day 3</td>
+            <td align="center"><a href="https://www.facebook.com/share/v/1686aFxBQD/">Week 4 Day 3</a></td>
+            <td align="center"><a href="https://lnkd.in/d4erC3Kx">Google Colab</a></td>
+            <td align="center">𝗣𝗲𝗿𝘀𝗼𝗻𝗮𝗹 𝗙𝗶𝗻𝗮𝗻𝗰𝗲 𝗧𝗿𝗮𝗰𝗸𝗲𝗿</td>
             <td align="center">Ibrahim Qasmi</td>
         </tr>
             <tr>
-            <td align="center"><b>Day 4: Polymorphism</b></br>Day 4</td>
-            <td align="center"><a href="https://www.facebook.com/iCodeguru/videos/1492105131434279">Week 4 Day 4</a></td>
-            <td align="center"><a href="https://colab.research.google.com/drive/1oSs11bohtsYzx2UdLojjX83Wf68x8YOF?usp=sharing">Google Colab</a></td>
-            <td align="center">What are decorators?</br>Creating and</br>using decorators</td>
+            <td align="center"><b>𝗟𝗶𝘃𝗲 𝗪𝗲𝗮𝘁𝗵𝗲𝗿 𝗖𝗵𝗲𝗰𝗸𝗲𝗿</b></br>Day 4</td>
+            <td align="center"><a href="https://www.facebook.com/share/v/1686aFxBQD/">Week 4 Day 4</a></td>
+            <td align="center"><a href="https://lnkd.in/d3kiepcv">Google Colab</a></td>
+            <td align="center">𝗟𝗶𝘃𝗲 𝗪𝗲𝗮𝘁𝗵𝗲𝗿 𝗖𝗵𝗲𝗰𝗸𝗲𝗿</td>
             <td align="center">Ibrahim Qasmi</td>
         </tr>
             <tr>
-            <td align="center"><b> Decorators and Closures</b></br>Day 5</td>
-            <td align="center"><a href="https://www.facebook.com/share/v/14nuM2P3SZ/">Week 4 Day 5</a></td>
-            <td align="center"><a href="https://www.facebook.com/share/v/12AxHcqxDaa/">Google Colab</a></td>
-            <td align="center"> Basics of Functions</br> return values</br>local and global</td>
+            <td align="center"><b>𝗟𝗶𝗻𝗸 𝘁𝗼 𝗤𝗥 𝗰𝗼𝗱𝗲 𝗠𝗮𝗸𝗲𝗿</b></br>Day 5</td>
+            <td align="center"><a href="https://www.facebook.com/share/v/1EjkZDQm7M/">Week 4 Day 5</a></td>
+            <td align="center"><a href="https://lnkd.in/dv-P24-z">Google Colab</a></td>
+            <td align="center">Deplyment on Streamlit</br>𝗟𝗶𝗻𝗸 𝘁𝗼 𝗤𝗥 𝗰𝗼𝗱𝗲 𝗠𝗮𝗸𝗲𝗿</td>
             <td align="center">Ibrahim Qasmi</td>
         </tr>
     </tbody>
