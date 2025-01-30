@@ -178,7 +178,7 @@ Welcome to Python Deep Dive! This comprehensive course takes you on a journey fr
         </tr>
         <tr>
             <td align="center"><b>Introduction to OOP</b></br>Day 1</td>
-            <td align="center"><a href="https://www.facebook.com/share/v/19pEz1e35g/">Week 3 Day 1</a></td>
+            <td align="center"><a href="https://www.facebook.com/share/v/19pEz1e35g/">Week 4 Day 1</a></td>
             <td align="center"><a href="https://colab.research.google.com/drive/1_MHrA1MS3F1UYHdUTv-bDmC3fYCfLwCe?usp=sharing">Project</a></td>
             <td align="center">Project</td>
             <td align="center">Ibrahim Qasmi</td>
