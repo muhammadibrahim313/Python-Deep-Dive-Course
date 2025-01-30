@@ -192,21 +192,21 @@ Welcome to Python Deep Dive! This comprehensive course takes you on a journey fr
         </tr>
             <tr>
             <td align="center"><b>Day 3: Inheritance</b></br>Day 3</td>
-            <td align="center"><a href="https://www.facebook.com/iCodeguru/videos/1273025913822418/">Week 3 Day 3</a></td>
+            <td align="center"><a href="https://www.facebook.com/iCodeguru/videos/1273025913822418/">Week 4 Day 3</a></td>
             <td align="center"><a href="https://colab.research.google.com/drive/1oSs11bohtsYzx2UdLojjX83Wf68x8YOF?usp=sharing">Google Colab</a></td>
             <td align="center">Default arguments</br>*args and **kwargs</br>lambda</td>
             <td align="center">Ahmad Fakhar</td>
         </tr>
             <tr>
             <td align="center"><b>Day 4: Polymorphism</b></br>Day 4</td>
-            <td align="center"><a href="https://www.facebook.com/iCodeguru/videos/1492105131434279">Week 3 Day 4</a></td>
+            <td align="center"><a href="https://www.facebook.com/iCodeguru/videos/1492105131434279">Week 4 Day 4</a></td>
             <td align="center"><a href="https://colab.research.google.com/drive/1oSs11bohtsYzx2UdLojjX83Wf68x8YOF?usp=sharing">Google Colab</a></td>
             <td align="center">What are decorators?</br>Creating and</br>using decorators</td>
             <td align="center">Ahmad Fakhar</td>
         </tr>
             <tr>
             <td align="center"><b> Decorators and Closures</b></br>Day 5</td>
-            <td align="center"><a href="https://www.facebook.com/share/v/14nuM2P3SZ/">Week 3 Day 4</a></td>
+            <td align="center"><a href="https://www.facebook.com/share/v/14nuM2P3SZ/">Week 4 Day 5</a></td>
             <td align="center"><a href="https://www.facebook.com/share/v/12AxHcqxDaa/">Google Colab</a></td>
             <td align="center"> Basics of Functions</br> return values</br>local and global</td>
             <td align="center">Tayyab Sajjad</td>
